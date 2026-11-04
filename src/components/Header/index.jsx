@@ -1,4 +1,4 @@
-import Logo from '../assets/logoNet.png'
+import Logo from '../../assets/logoNet.png'
 
 
 function Header() {
